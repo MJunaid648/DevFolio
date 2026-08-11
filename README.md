@@ -4,7 +4,7 @@
 
 ## 🌐 Live Website
 
-[View Live Portfolio](YOUR_GITHUB_PAGES_URL)
+[View Live Portfolio](https://mjunaid648.github.io/DevFolio/)
 
 ## 👨‍💻 About
 
