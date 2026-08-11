@@ -1,31 +1,104 @@
-# DEVFOLIO Portfolio
+# Muhammad Junaid — Developer Portfolio
 
-This is a plain HTML/CSS/JavaScript implementation of the supplied 3-page portfolio design.
+> Personal portfolio website showcasing my experience, skills, projects, and professional background as a Full-Stack Software Engineer.
 
-## Files
+## 🌐 Live Website
 
-- `index.html` — page structure and editable content
-- `styles.css` — all styling and responsive layout
-- `assets/profile.png` — profile image extracted from the supplied PDF
-- `assets/project-1.png` through `assets/project-6.png` — project preview images extracted from the supplied PDF
+[View Live Portfolio](YOUR_GITHUB_PAGES_URL)
 
-## Run it
+## 👨‍💻 About
 
-No build tool is required.
+I'm Muhammad Junaid, a Full-Stack Software Engineer focused on building scalable, maintainable, and reliable web applications.
 
-Open `index.html` directly in a browser, or use VS Code + Live Server.
+My experience spans both frontend and backend development, working with modern JavaScript/TypeScript technologies and building applications across different layers of the stack.
 
-## Where to customize
+## 🛠️ Tech Stack
 
-Search `index.html` for comments such as:
+### Frontend
 
-- `Change these numbers to your own stats`
-- `Change skill names and percentages`
-- `Replace titles/categories/images with your real projects`
-- `Replace with your real contact details`
+- Angular
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
 
-The portfolio filters are already implemented in the small JavaScript block at the bottom of `index.html`.
+### Backend
 
-## Notes
+- Node.js
+- NestJS
+- Express.js
+- REST APIs
+- GraphQL
 
-The original PDF is a visual template, so the implementation uses the supplied design as the visual reference. Placeholder copy and metrics remain intentionally editable rather than being presented as your real experience.
+### Database & ORM
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- TypeORM
+
+### Other
+
+- Git & GitHub
+- Responsive Web Design
+- API Integration
+- Clean Architecture
+- Performance Optimization
+
+## 📂 Featured Projects
+
+### Foodie
+
+Recipe web application focused on browsing and discovering recipes.
+
+**Tech:** React, JavaScript
+
+### Movie App
+
+Movie application built with React and Redux for state management.
+
+**Tech:** React, Redux
+
+### Buzz Bazaar
+
+E-commerce web application with a product-focused shopping experience.
+
+**Tech:** React, JavaScript
+
+### Developer Portfolio
+
+Personal portfolio website showcasing projects and professional experience.
+
+**Tech:** HTML, CSS, JavaScript
+
+### Recipe Landing Page
+
+Responsive landing page designed around a recipe-focused experience.
+
+**Tech:** HTML, CSS, JavaScript
+
+### Nixxol
+
+IT services website and landing page.
+
+**Tech:** HTML, CSS, JavaScript
+
+## ✨ Portfolio Features
+
+- Responsive design
+- Mobile navigation
+- Project filtering
+- Project links
+- Social media links
+- Contact section
+- Modern developer-focused UI
+- Responsive profile presentation
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
